@@ -91,8 +91,6 @@ Lung cancer remains a critical public health issue, with smoking and environment
 - **Excel**: For data cleaning and statistical analysis.
 - **Power BI**: For data visualization and dashboard creation.
 
-## Author
-Sneh Patel
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
